@@ -11,7 +11,7 @@ test("Navigate to Url",async({page}) =>{
 
    console.log("Titile name:" + title);
 
-   await expect(page).toHaveTitle('demosite');
+   await expect(page).toHaveTitle('demositee');
    
 
 });
